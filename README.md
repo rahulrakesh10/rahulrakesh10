@@ -1,6 +1,6 @@
 # Rahul Rakesh 👋
 
-[![Website](https://img.shields.io/badge/Portfolio-Website-blue?style=flat&logo=About.me)](https://rahulrakesh10.github.io/) 
+[![Website](https://img.shields.io/badge/Portfolio-Website-blue?style=flat&logo=About.me)](https://rahulrakesh10.github.io/WebsitePortfolio/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-rahulrakesh10-blue?logo=linkedin)](https://www.linkedin.com/in/rahulrakesh10)
 [![GitHub](https://img.shields.io/badge/GitHub-rahulrakesh10-black?logo=github)](https://github.com/rahulrakesh10)
 
