@@ -1,4 +1,4 @@
-# Hello 👋
+# Hi there 👋
 
 [![Website](https://img.shields.io/badge/Portfolio-Website-blue?style=flat&logo=About.me)](https://rahulrakesh10.github.io/WebsitePortfolio/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-rahulrakesh10-blue?logo=linkedin)](https://www.linkedin.com/in/rahulrakesh10)
