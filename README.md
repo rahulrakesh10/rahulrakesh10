@@ -27,7 +27,7 @@ I specialize in full-stack development using React, Java, Node.js, Python, and D
   Developed Chrome, Edge, Firefox extension in JS to block distractions, improve focus, sync schedules, secure local-first storage, and responsive UI.
 - **Fake Out — Real-Time Multiplayer Game**  
   Built social party game in React/TypeScript/Node.js/Socket.IO, features dynamic lobby, live voting and score tracking, deployed using Docker & Fly.io.
-- **VitaLink (TerraHacks 2025) — AI Healthcare Network**  
+- **VitaLink (TerraHacks 2025) — AI Healthcare Assistant**  
   Healthcare platform with React Native & Django REST, live hospital wait times and Gemini AI triage, PostgreSQL/MongoDB backend, voice EMS dispatch.
 - **Calendarly — Full Stack Calendar App**  
   React calendar with Node.js/Express backend, SQLite DB, AI event extraction and chat-style UI, production deployed, tested by 30 student users.
