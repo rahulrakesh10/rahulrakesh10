@@ -34,12 +34,6 @@ I specialize in full-stack development using React, Java, Node.js, Python, and D
 
 ---
 
-## 🧑‍🔧 Currently Building Filmssy
-
-- Filmssy is a scalable, intelligent media recommendation mobile application designed to provide users with personalized content discovery through advanced algorithms. It features a robust multi-layer microservices architecture to support core functionalities such as personalized recommendations, watchlist management, user ratings, social interactions, and real-time analytics. Built with modern technologies like React Native, Python FastAPI, and PostgreSQL, Filmssy focuses on delivering a seamless user experience, data-driven insights, and scalable performance. The app aims to evolve through phased development, incorporating deep learning models, semantic search, and social features to continually enhance user engagement and satisfaction.
-
----
-
 
 ## ⚡ Technical Skills
 
