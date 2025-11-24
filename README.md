@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About Me
 
-Hi, I'm Rahul—a passionate Software Engineer and third-year Computer Science student at Western University.  
+Hi, I'm Rahul, a passionate Software Engineer and third-year Computer Science student at Western University.  
 I specialize in full-stack development using React, Java, Node.js, Python, and Django, and enjoy building user-focused applications.
 
 - 🚀 I've launched real-time multiplayer games, productivity browser extensions, and AI-integrated healthcare platforms.
