@@ -56,11 +56,44 @@ I specialize in full-stack development using React, Java, Node.js, Python, and D
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" alt="Git" />
 </div>
 
-**Languages**: Python, C/C++, Java, JavaScript, SQL, HTML/CSS, Assembly
-**Databases**: PostgreSQL, MongoDB, SQLite
-**ML/AI Frameworks**: PyTorch, TensorFlow, Pandas, Gymnasium (RL), SciKit Learn, Matplotlib, LLMs
-**Tools & Platforms**: React, Node.js, Django, Docker, Git, AWS, , REST Api
-**Methodologies**: Agile/Scrum, Testing & Debugging
+## 🛠️ Tech Stack
+
+### Languages
+- Python
+- C/C++
+- Java
+- JavaScript
+- SQL
+- HTML/CSS
+- Assembly
+
+### Databases
+- PostgreSQL
+- MongoDB
+- SQLite
+
+### ML / AI Frameworks
+- PyTorch
+- TensorFlow
+- Pandas
+- Gymnasium (RL)
+- Scikit-learn
+- Matplotlib
+- LLMs
+
+### Tools & Platforms
+- React
+- Node.js
+- Django
+- Docker
+- Git
+- AWS
+- REST APIs
+
+### Methodologies
+- Agile / Scrum
+- Testing & Debugging
+
 
 ---
 
