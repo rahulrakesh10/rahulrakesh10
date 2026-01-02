@@ -58,41 +58,11 @@ I specialize in full-stack development using React, Java, Node.js, Python, and D
 
 ## 🛠️ Tech Stack
 
-### Languages
-- Python
-- C/C++
-- Java
-- JavaScript
-- SQL
-- HTML/CSS
-- Assembly
+**Languages:** Python · C/C++ · Java · JavaScript · SQL · HTML/CSS · Assembly  
+**Databases:** PostgreSQL · MongoDB · SQLite  
+**ML / AI:** PyTorch · TensorFlow · Pandas · Gymnasium (RL) · Scikit-learn · Matplotlib · LLMs  
+**Tools:** React · Node.js · Django · Docker · Git · AWS · REST APIs  
 
-### Databases
-- PostgreSQL
-- MongoDB
-- SQLite
-
-### ML / AI Frameworks
-- PyTorch
-- TensorFlow
-- Pandas
-- Gymnasium (RL)
-- Scikit-learn
-- Matplotlib
-- LLMs
-
-### Tools & Platforms
-- React
-- Node.js
-- Django
-- Docker
-- Git
-- AWS
-- REST APIs
-
-### Methodologies
-- Agile / Scrum
-- Testing & Debugging
 
 
 ---
