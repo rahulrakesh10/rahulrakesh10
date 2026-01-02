@@ -21,7 +21,7 @@ I specialize in full-stack development using React, Java, Node.js, Python, and D
 ---
 
 
-## 🚀 Projects
+## 🚀 Notable Projects
 
 - **WebWall — Cross-Browser Productivity Extension**  
   Developed Chrome, Edge, Firefox extension in JS to block distractions, improve focus, sync schedules, secure local-first storage, and responsive UI.
