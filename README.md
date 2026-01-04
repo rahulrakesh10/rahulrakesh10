@@ -29,7 +29,7 @@ I specialize in full-stack development using React, Java, Node.js, Python, and D
   Built social party game in React/TypeScript/Node.js/Socket.IO, features dynamic lobby, live voting and score tracking, deployed using Docker & Fly.io.
 - **VitaLink (TerraHacks 2025) — AI Healthcare Assistant**  
   Healthcare platform with React Native & Django REST, live hospital wait times and Gemini AI triage, PostgreSQL/MongoDB backend, voice EMS dispatch.
-- **Calendarly — Full Stack Calendar App**  
+- **NeuroScan —  RL-Driven HPC Workload Optimizer**  
   React calendar with Node.js/Express backend, SQLite DB, AI event extraction and chat-style UI, production deployed, tested by 30 student users.
 
 ---
