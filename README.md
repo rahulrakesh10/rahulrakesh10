@@ -28,7 +28,8 @@ I specialize in full-stack development using React, Java, Node.js, Python, and D
   Built social party game in React/TypeScript/Node.js/Socket.IO, features dynamic lobby, live voting and score tracking, deployed using Docker & Fly.io.
 - **VitaLink (TerraHacks 2025) — AI Healthcare Assistant**  
   Healthcare platform with React Native & Django REST, live hospital wait times and Gemini AI triage, PostgreSQL/MongoDB backend, voice EMS dispatch.
-- 
+- **Schedula — Serverless Booking Backend**  
+  Serverless booking API built with Azure Functions and Azure SQL, ensuring transaction-safe, low-latency scheduling with idempotent request handling to prevent double bookings.
 - **NeuroScan —  RL-Driven HPC Workload Optimizer**
   Developed and deployed deep reinforcement learning–based job scheduling agents in PyTorch, achieving a 25% efficiency improvement over FCFS across 10,000+ simulated workloads on AWS
 - **WebWall — Cross-Browser Productivity Extension**  
