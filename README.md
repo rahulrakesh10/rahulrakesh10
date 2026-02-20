@@ -63,6 +63,7 @@ I specialize in full-stack development using React, Java, Node.js, Python, and D
 **Languages:** Python · C/C++ · Java · JavaScript · SQL · HTML/CSS · Assembly  
 **Web and Backend:** React · Node.js · Express.js · Django · REST APIs · Socket.IO · Git
 **Databases:** PostgreSQL · MongoDB · SQLite · Azure SQL
+**Cloud:** Azure · Docker
 **ML / AI:** PyTorch · TensorFlow · Pandas · Gymnasium (RL) · Scikit-learn · Matplotlib · LLMs  
 **Tools:** React · Node.js · Django · Docker · Git · AWS · REST APIs  
 
