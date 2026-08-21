@@ -68,15 +68,6 @@ Built and maintained backend services / REST APIs for 5+ clients (Node.js, Expre
 
 ---
 
-### 📊 GitHub Stats
-
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=rahulrakesh10&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulrakesh10&theme=tokyonight&hide_border=true" height="165" alt="GitHub streak" />
-</div>
-
----
-
 ### 🎓 Certifications
 Anthropic — Claude with the Anthropic API · Claude 101 · AI Fluency
 Udemy — Intro to Cloud Computing on AWS
