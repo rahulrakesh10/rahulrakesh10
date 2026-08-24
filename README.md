@@ -71,7 +71,3 @@ Built and maintained backend services / REST APIs for 5+ clients (Node.js, Expre
 ### 🎓 Certifications
 Anthropic — Claude with the Anthropic API · Claude 101 · AI Fluency
 Udemy — Intro to Cloud Computing on AWS
-
----
-
-⭐️ From [rahulrakesh10](https://github.com/rahulrakesh10)
