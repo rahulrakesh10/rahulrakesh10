@@ -29,7 +29,7 @@ Built and maintained backend services / REST APIs for 5+ clients (Node.js, Expre
 
 ---
 
-### 🚀 Featured Projects
+###  Featured Projects
 
 | Project | What it does | Stack |
 |---|---|---|
