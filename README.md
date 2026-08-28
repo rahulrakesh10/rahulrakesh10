@@ -7,7 +7,7 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
 I'm a Computer Science (Co-op) student at Western University who likes building software that fixes real, annoying, lived-in problems — not just resume filler. Currently working as a **Machine Learning Engineer at Fly Rank** and freelancing as a full-stack developer for 5+ clients.
 
