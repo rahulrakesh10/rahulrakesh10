@@ -19,7 +19,7 @@ I'm a Computer Science (Co-op) student at Western University who likes building 
 
 ---
 
-### 💼 Experience
+### Experience
 
 **Machine Learning Engineer** · Fly Rank _(Jun 2026 – Present)_
 Built a leakage-safe data pipeline over a 28,795-row dataset, benchmarked a Random Forest model against a baseline on a 5,759-row held-out split, and shipped an automated "Action Playbook" API that replaced manual review with data-driven prioritization.
