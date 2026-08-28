@@ -41,7 +41,7 @@ Built and maintained backend services / REST APIs for 5+ clients (Node.js, Expre
 
 ---
 
-### ⚡ Tech Stack
+###  Tech Stack
 
 **Languages:** Python · Java · TypeScript · JavaScript · SQL · C/C++
 **Backend & APIs:** FastAPI · Django REST Framework · Express.js · Node.js · REST APIs · Socket.IO
@@ -68,6 +68,6 @@ Built and maintained backend services / REST APIs for 5+ clients (Node.js, Expre
 
 ---
 
-### 🎓 Certifications
+### Certifications
 Anthropic — Claude with the Anthropic API · Claude 101 · AI Fluency
 Udemy — Intro to Cloud Computing on AWS
