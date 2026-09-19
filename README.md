@@ -33,7 +33,7 @@ Built and maintained backend services / REST APIs for 5+ clients (Node.js, Expre
 
 | Project | What it does | Stack |
 |---|---|---|
-| **[Anomalock](#)** | Real-time login-anomaly scoring service — Isolation Forest & Random Forest on a 33M+ event dataset, 60.5% recall at a fixed 20% review budget, containerized & deployed | Python, FastAPI, PostgreSQL, Docker, scikit-learn |
+| **[Anomalock](https://rahulrakesh10.github.io/Anomalock/)** | Real-time login-anomaly scoring service — Isolation Forest & Random Forest on a 33M+ event dataset, 60.5% recall at a fixed 20% review budget, containerized & deployed | Python, FastAPI, PostgreSQL, Docker, scikit-learn |
 | **Fake Out** | Real-time multiplayer party game — sub-100ms latency, 99.5% uptime, 1,000+ production sessions | Node.js, TypeScript, Socket.IO, Docker |
 | **VitaLink** _(TerraHacks 2025)_ | AI healthcare assistant — Gemini-powered triage, hospital recommendation engine, 3-tier RBAC for patient data | React Native, Django REST, PostgreSQL, Gemini API |
 | **WebWall** | Cross-browser productivity extension to block distractions & sync schedules | JavaScript, Chrome/Edge/Firefox APIs |
