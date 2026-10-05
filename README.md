@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Rahul
+# Hi there, I'm Rahul
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-blue?style=flat-square&logo=About.me)](https://rahulrakesh10.github.io/WebsitePortfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-rahulrakesh10-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahulrakesh10)
@@ -7,7 +7,7 @@
 
 ---
 
-### About Me
+### Me
 
 I'm a Computer Science (Co-op) student at Western University who likes building software that fixes real, annoying, lived-in problems — not just resume filler. Currently working as a **Machine Learning Engineer at Fly Rank** and freelancing as a full-stack developer for 5+ clients.
 
