@@ -14,8 +14,8 @@ I'm a Computer Science (Co-op) student at Western University who likes building 
 -  Building `Anomalock`, a real-time login-anomaly detection service trained on 33M+ security events
 -  Shipping ML pipelines that turn raw data into automated decision-support tools in production
 -  Full-stack development across React, Node.js, Django, and FastAPI
-- 🤝 Freelancing end-to-end — requirements, system design, deployment, and production ops
-- 📫 Reach out via [LinkedIn](https://www.linkedin.com/in/rahulrakesh10) or email 
+-  Freelancing end-to-end — requirements, system design, deployment, and production ops
+-  Reach out via [LinkedIn](https://www.linkedin.com/in/rahulrakesh10) or email 
 
 ---
 
