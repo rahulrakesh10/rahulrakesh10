@@ -9,13 +9,14 @@
 
 ### Me
 
-I'm a Computer Science (Co-op) student at Western University who likes building software that fixes real, annoying, lived-in problems — not just resume filler. Currently working as a **Machine Learning Engineer at Fly Rank** and freelancing as a full-stack developer for 5+ clients.
+I'm a Computer Science (Co-op) student at Western University who likes building software that fixes real, annoying, lived-in problems, not just resume filler. I recently completed a Machine Learning Engineer internship at Fly Rank and I freelance as a full-stack developer for 5+ clients.
 
--  Building `Anomalock`, a real-time login-anomaly detection service trained on 33M+ security events
--  Shipping ML pipelines that turn raw data into automated decision-support tools in production
--  Full-stack development across React, Node.js, Django, and FastAPI
--  Freelancing end-to-end — requirements, system design, deployment, and production ops
--  Reach out via [LinkedIn](https://www.linkedin.com/in/rahulrakesh10) or email 
+- Building `Anomalock`, a real-time login-anomaly detection service trained on 33M+ security events
+- Shipping ML pipelines that turn raw data into automated decision-support tools in production
+- Full-stack development across React, Node.js, Django, and FastAPI
+- Freelancing end-to-end: requirements, system design, deployment, and production ops
+- Looking for Winter 2027 co-op and internship roles in full-stack and ML engineering
+- Reach out via [LinkedIn](https://www.linkedin.com/in/rahulrakesh10) or email
 
 ---
 
@@ -29,18 +30,19 @@ Built and maintained backend services / REST APIs for 5+ clients (Node.js, Expre
 
 ---
 
-###  Notable Projects
+### Notable Projects
 
 | Project | What it does | Stack |
 |---|---|---|
-| **[Anomalock](https://rahulrakesh10.github.io/Anomalock/)** | Real-time login-anomaly scoring service — Isolation Forest & Random Forest on a 33M+ event dataset, 60.5% recall at a fixed 20% review budget, containerized & deployed | Python, FastAPI, PostgreSQL, Docker, scikit-learn |
-| [**Fake Out**](https://whosfake.app/)| Real-time multiplayer party game — sub-100ms latency, 99.5% uptime, 1,000+ production sessions | Node.js, TypeScript, Socket.IO, Docker |
-| **VitaLink** _(TerraHacks 2025)_ | AI healthcare assistant — Gemini-powered triage, hospital recommendation engine, 3-tier RBAC for patient data | React Native, Django REST, PostgreSQL, Gemini API |
+| **[Anomalock](https://rahulrakesh10.github.io/Anomalock/)** | Real-time login-anomaly scoring service: Isolation Forest & Random Forest on a 33M+ event dataset, 60.5% recall at a fixed 20% review budget, containerized & deployed | Python, FastAPI, PostgreSQL, Docker, scikit-learn |
+| [**Fake Out**](https://whosfake.app/) | Real-time multiplayer party game: sub-100ms latency, 99.5% uptime, 1,000+ production sessions | Node.js, TypeScript, Socket.IO, Docker |
+| **VitaLink** _(TerraHacks 2025)_ | AI healthcare assistant: Gemini-powered triage, hospital recommendation engine, 3-tier RBAC for patient data | React Native, Django REST, PostgreSQL, Gemini API |
 | [**WebWall**](https://chromewebstore.google.com/detail/webwall/lbiafkkkeifelibdhgnjciholockjlcc?hl=en) | Cross-browser productivity extension to block distractions & sync schedules | JavaScript, Chrome/Edge/Firefox APIs |
+| **Auto-Sorter Plus** | Real-time file watcher that sorts Downloads by file type and by course name, configured through a simple text file and auto-launched on startup | Python, watchdog, macOS LaunchAgent |
 
 ---
 
-###  Tech Stack
+### Tech Stack
 
 **Languages:** Python · Java · TypeScript · JavaScript · SQL · C/C++
 **Backend & APIs:** FastAPI · Django REST Framework · Express.js · Node.js · REST APIs · Socket.IO
@@ -68,5 +70,5 @@ Built and maintained backend services / REST APIs for 5+ clients (Node.js, Expre
 ---
 
 ### Certifications
-Anthropic — Claude with the Anthropic API · Claude 101 · AI Fluency
-Udemy — Intro to Cloud Computing on AWS
+Anthropic: Claude with the Anthropic API · Claude 101 · AI Fluency
+Udemy: Intro to Cloud Computing on AWS
