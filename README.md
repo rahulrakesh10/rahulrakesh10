@@ -9,7 +9,7 @@
 
 ### Me
 
-I'm a Computer Science (Co-op) student at Western University who likes building software that fixes real, annoying, lived-in problems, not just resume filler. I recently completed a Machine Learning Engineer internship at Fly Rank and I freelance as a full-stack developer for 5+ clients.
+I'm a Computer Science student at Western University who likes building software that fixes real, annoying, lived-in problems, not just resume filler. I recently completed a Machine Learning Engineer internship at Fly Rank and I freelance as a full-stack developer for 5+ clients.
 
 - Building `Anomalock`, a real-time login-anomaly detection service trained on 33M+ security events
 - Shipping ML pipelines that turn raw data into automated decision-support tools in production
