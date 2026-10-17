@@ -15,7 +15,6 @@ I'm a Computer Science student at Western University who likes building software
 - Shipping ML pipelines that turn raw data into automated decision-support tools in production
 - Full-stack development across React, Node.js, Django, and FastAPI
 - Freelancing end-to-end: requirements, system design, deployment, and production ops
-- Looking for Winter 2027 co-op and internship roles in full-stack and ML engineering
 - Reach out via [LinkedIn](https://www.linkedin.com/in/rahulrakesh10) or email
 
 ---
