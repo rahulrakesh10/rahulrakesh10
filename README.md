@@ -37,7 +37,6 @@ Built and maintained backend services / REST APIs for 5+ clients (Node.js, Expre
 | [**Fake Out**](https://whosfake.app/) | Real-time multiplayer party game: sub-100ms latency, 99.5% uptime, 1,000+ production sessions | Node.js, TypeScript, Socket.IO, Docker |
 | **VitaLink** _(TerraHacks 2025)_ | AI healthcare assistant: Gemini-powered triage, hospital recommendation engine, 3-tier RBAC for patient data | React Native, Django REST, PostgreSQL, Gemini API |
 | [**WebWall**](https://chromewebstore.google.com/detail/webwall/lbiafkkkeifelibdhgnjciholockjlcc?hl=en) | Cross-browser productivity extension to block distractions & sync schedules | JavaScript, Chrome/Edge/Firefox APIs |
-| **Auto-Sorter Plus** | Real-time file watcher that sorts Downloads by file type and by course name, configured through a simple text file and auto-launched on startup | Python, watchdog, macOS LaunchAgent |
 
 ---
 
